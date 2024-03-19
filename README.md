@@ -19,7 +19,7 @@ My name is Roberto, I'm working on Data Analysis.
 
 📊 I work mainly with SQL and Python, and master various data visualization tools such as Tableau, PowerBi and LookerStudio.
 
-📫 To connect with me : [https://www.linkedin.com/in/roberto-maillot-3a8017a0/]
+📫 To connect with me : https://www.linkedin.com/in/roberto-maillot-3a8017a0/
 
 💬 To send me an e-mail : robertomaillot95@gmail.com
 
