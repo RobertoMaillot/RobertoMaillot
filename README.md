@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -  Fun fact: ...
 -->
 
-My name is Roberto, I'm working on Data Analysis.
+I am Roberto, working on Data Analysis.
 
 📊 I work mainly with SQL and Python, and master various data visualization tools such as Tableau, PowerBi and LookerStudio.
 
