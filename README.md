@@ -19,7 +19,7 @@ I am Roberto, working on Data Analysis.
 
 📊 I work mainly with SQL and Python, and master various data visualization tools such as Tableau, PowerBi and LookerStudio.
 
-👨🏾‍🏫 To see my projects : https://robertomaillot.github.io/Roberto-s-portfolio/
+👨🏾‍🏫 To see my projects : https://robertomaillot.github.io
 
 🔭 Position: Data Analyst
 
