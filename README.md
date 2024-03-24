@@ -19,6 +19,8 @@ I am Roberto, working on Data Analysis.
 
 📊 I work mainly with SQL and Python, and master various data visualization tools such as Tableau, PowerBi and LookerStudio.
 
+👨🏾‍🏫 To see my project : https://robertomaillot.github.io/Roberto-s-portfolio/#compétences-techniques-acquises
+
 🔭 Position: Data Analyst
 
 🚂 Wagon Alumni - Batch #1529
